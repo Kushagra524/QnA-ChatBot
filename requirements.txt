@@ -1,4 +1,3 @@
-os
 langchain-openai
 langchain
 python-dotenv
